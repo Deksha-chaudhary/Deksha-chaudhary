@@ -11,7 +11,7 @@
 </p>
 
 - 🎓 I’m currently pursuing **MCA (Last Year)**  
-- 💬 Ask me about **React.js, Java, Spring Boot, and Full-Stack Development**  
+- 💬 Ask me about **React.js, Java, Spring Boot, and Full-Stack Development** 
 - 📧 Contact me at: **dekshachaudhary91@gmail.com**  
 - ⚡ Fun fact: **The first computer "bug" was an actual real-life bug.**
 
