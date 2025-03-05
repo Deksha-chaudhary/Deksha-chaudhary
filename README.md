@@ -2,7 +2,7 @@
   <img src="https://github.com/Deksha-Chaudhary/Deksha-Chaudhary/blob/main/Nk_git.png" alt="Banner" width="100%" />
 </p>
 
-<h3 align="center">A Passionate React.js Developer from Jewar, Noida, India.</h3>  
+<h3 align="center">A Passionate Java Developer from Jewar, Noida, India.</h3>  
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
@@ -12,7 +12,7 @@
 
 - 🎓 I’m currently pursuing **MCA (Last Year)**  
 - 💬 Ask me about **React.js, Java, Spring Boot, and Full-Stack Development**  
-- 📧 Contact me at: **nitinkumarja2003@gmail.com**  
+- 📧 Contact me at: **dekshachaudhary91@gmail.com**  
 - ⚡ Fun fact: **The first computer "bug" was an actual real-life bug.**
 
 ---
@@ -43,6 +43,3 @@
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Deksha-Chaudhary&show_icons=true&locale=en" alt="Deksha-Chaudhary" />
 </p>
-
-<p>
-  <img align="cen
