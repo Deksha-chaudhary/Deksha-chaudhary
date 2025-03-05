@@ -18,8 +18,8 @@
 ---
 
 ## 🌐 Socials:
-[![LeetCode](https://img.shields.io/badge/LeetCode-F9C24D.svg?logo=leetcode&logoColor=black)](https://leetcode.com/u/Nitinjanmeda) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitin-kumar-42026421b)
+[![LeetCode](https://img.shields.io/badge/LeetCode-F9C24D.svg?logo=leetcode&logoColor=black)](https://leetcode.com/u/Deksha/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/km-dharmwati-45aa022a5/)
 
 ---
 
