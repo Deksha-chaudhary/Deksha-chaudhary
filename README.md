@@ -10,7 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=Deksha-Chaudhary&label=Profile%20views&color=0e75b6&style=flat" alt="Deksha-Chaudhary" />
 </p>
 
-- 🎓 I’m currently pursuing **MCA (Last Year)**  
+- 🎓 I’m currently Working on Edunext Technologies.  
 - 💬 Ask me about **React.js, Java, Spring Boot, and Full-Stack Development** 
 - 📧 Contact me at: **dekshachaudhary91@gmail.com**  
 - ⚡ Fun fact: **The first computer "bug" was an actual real-life bug.**
